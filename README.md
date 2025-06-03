@@ -16,7 +16,7 @@ O **Eureka Server** atua como um **registro centralizado** onde os microserviço
 
 ## 🛠️ Tecnologias Utilizadas
 
-- Java 17+
+- Java 21
 - Spring Boot
 - Spring Cloud Netflix Eureka Server
 - Maven
